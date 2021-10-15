@@ -1,0 +1,7 @@
+{
+  "name": "catDemoForMoica",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
